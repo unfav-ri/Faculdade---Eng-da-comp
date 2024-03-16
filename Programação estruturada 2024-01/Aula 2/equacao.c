@@ -1,5 +1,3 @@
-// Ricardo Gonçalves Junior - 202306044
-
 #include <stdio.h>
 #include <math.h>
 
