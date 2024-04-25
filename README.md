@@ -9,6 +9,7 @@ Meu objetivo é compartilhar tudo relacionado à programação que estou desenvo
 # Tecnologias utilizadas
 
 - C
+- SQL
 
 # Autor
 
